@@ -1,0 +1,4 @@
+Hell[1-4]
+Buy
+grep
+REGEX
